@@ -10,7 +10,6 @@ repetidos = []
 nao_repetidos = []
 
 for valor in lista:
-    #print(valor)
     if valor in nao_repetidos:
         repetidos.append(valor)
     else:
