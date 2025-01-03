@@ -1,4 +1,4 @@
-#4- Considerando uma lista A, informe a quantidade de itens repetidos.
+#4 - Considerando uma lista A, informe a quantidade de itens repetidos.
 
 lista = [3,6,7,8,5,4,2,3,6,4]
 
