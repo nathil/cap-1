@@ -1,4 +1,4 @@
-#14-  Considerando uma lista chamada PRODUCAO e um conjunto chamado BACKUP, informe os itens da PRODUCAO que 
+#14 - Considerando uma lista chamada PRODUCAO e um conjunto chamado BACKUP, informe os itens da PRODUCAO que 
 #já estão no BACKUP.
 
 #1o modo
